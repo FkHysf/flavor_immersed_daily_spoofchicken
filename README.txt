@@ -16,13 +16,6 @@
 适用版本
 Minecraft 1.21.1 / NeoForge 21.1.244+ 的21.1.x / Java21。
 依赖用户提供的 flavor_immersed_daily-1.21.1-neoforge-2026.10.2.jar，内置fidworkblock 1.0.0。
-成品只包含本附属，不附带烟火凡人心JAR；两者一起放到你自行选择的游戏mods目录。
-未安装到E:/旅者之乡2.0自用端或其他客户端。
-
-更名说明
-0.2.0及更早版本使用spoofchicken，本版使用flavor_immersed_daily_spoofchicken，这是实际注册ID变更。
-测试请移出旧版JAR、使用新测试存档。旧存档内旧ID物品和已放置菜品不自动迁移，不能用改文件名来转换。
-0.2.0的源码和成品已完整保留在历史版本/0.2.0，方便回退。旧测试世界未做迁移。
 
 指令（需要作弊或管理员权限）
 /function flavor_immersed_daily_spoofchicken:give_all              全部30盘白切鸡
