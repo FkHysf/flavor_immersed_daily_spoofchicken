@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "bites=0,facing=north": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage0"
+    },
+    "bites=0,facing=east": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage0",
+      "y": 90
+    },
+    "bites=0,facing=south": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage0",
+      "y": 180
+    },
+    "bites=0,facing=west": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage0",
+      "y": 270
+    },
+    "bites=1,facing=north": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage1"
+    },
+    "bites=1,facing=east": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage1",
+      "y": 90
+    },
+    "bites=1,facing=south": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage1",
+      "y": 180
+    },
+    "bites=1,facing=west": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage1",
+      "y": 270
+    },
+    "bites=2,facing=north": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage2"
+    },
+    "bites=2,facing=east": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage2",
+      "y": 90
+    },
+    "bites=2,facing=south": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage2",
+      "y": 180
+    },
+    "bites=2,facing=west": {
+      "model": "flavor_immersed_daily_spoofchicken:block/white_cut_chicken_flavors/salad_stage2",
+      "y": 270
+    }
+  }
+}

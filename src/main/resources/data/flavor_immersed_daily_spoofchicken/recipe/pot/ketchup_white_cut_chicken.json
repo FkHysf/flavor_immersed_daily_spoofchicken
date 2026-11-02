@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "flavor_immersed_daily:tomato"
+    },
+    {
+      "item": "flavor_immersed_daily:vinegar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:ketchup_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}

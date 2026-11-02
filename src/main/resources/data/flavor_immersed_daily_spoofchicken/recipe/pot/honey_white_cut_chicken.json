@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "flavor_immersed_daily:lemon"
+    },
+    {
+      "item": "flavor_immersed_daily:ginger"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:honey_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}

@@ -1,0 +1,5 @@
+give @s flavor_immersed_daily_spoofchicken:taro_paste 16
+give @s flavor_immersed_daily_spoofchicken:fish_mint_milk_tea 16
+give @s flavor_immersed_daily_spoofchicken:wang_lao_ji 16
+give @s flavor_immersed_daily_spoofchicken:huoxiang_zhengqi_water 16
+give @s flavor_immersed_daily_spoofchicken:popping_candy 16

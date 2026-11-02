@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "flavor_immersed_daily:orange"
+    },
+    {
+      "item": "flavor_immersed_daily:orangejuice"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:orange_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}

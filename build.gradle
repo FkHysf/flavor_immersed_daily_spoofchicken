@@ -1,0 +1,32 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.143'
+}
+repositories {
+    if (file('../maven-cache').exists()) maven { url = uri('../maven-cache') }
+}
+version = '0.2.2'
+group = 'local.flavor_immersed_daily_spoofchicken'
+base { archivesName = 'flavor_immersed_daily_spoofchicken-1.21.1' }
+java { toolchain { languageVersion = JavaLanguageVersion.of(21) } }
+neoForge {
+    version = '21.1.244'
+    runs {
+        gameTestServer {
+            type = 'gameTestServer'
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'flavor_immersed_daily_spoofchicken'
+            gameDirectory = file('run-gametest')
+        }
+    }
+    mods { flavor_immersed_daily_spoofchicken { sourceSet(sourceSets.main) } }
+}
+dependencies {
+    runtimeOnly files('libs/flavor_immersed_daily-reference.jar')
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.named('jar') { exclude 'local/flavor_immersed_daily_spoofchicken/PreviewGameTests*'; exclude 'data/flavor_immersed_daily_spoofchicken/structure/empty.nbt' }
+
+
+configurations.configureEach {
+    exclude group: 'io.netty', module: 'netty-transport-native-epoll'
+}

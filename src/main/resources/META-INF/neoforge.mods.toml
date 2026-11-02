@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+[[mods]]
+modId="flavor_immersed_daily_spoofchicken"
+version="0.2.2"
+displayName="烟火凡人心：更多白切鸡"
+authors="Local Preview"
+description='''烟火凡人心测试附属：30 种可放置、三口食用的白切鸡，30 个汤锅配方、5 种可合成食材与 35 组趣味文案。'''
+[[dependencies.flavor_immersed_daily_spoofchicken]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.244,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.flavor_immersed_daily_spoofchicken]]
+modId="flavor_immersed_daily"
+type="required"
+versionRange="[1.21.1-neoforge-2026.10.2]"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.flavor_immersed_daily_spoofchicken]]
+modId="fidworkblock"
+type="required"
+versionRange="[1.0.0]"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.flavor_immersed_daily_spoofchicken]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,520 @@
+[
+  {
+    "dish": "mango_white_cut_chicken",
+    "name": "芒果酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:mango",
+      "flavor_immersed_daily:mangojam",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "芒果",
+      "芒果果酱",
+      "糖"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "pineapple_white_cut_chicken",
+    "name": "菠萝酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:pineapple",
+      "flavor_immersed_daily:pineapplejam",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "菠萝",
+      "菠萝果酱",
+      "糖"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "durian_white_cut_chicken",
+    "name": "榴莲酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:durianmeat",
+      "flavor_immersed_daily:durianjam",
+      "flavor_immersed_daily:cream"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "榴莲果肉",
+      "榴莲果酱",
+      "奶油"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "peanut_white_cut_chicken",
+    "name": "花生酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:peanut",
+      "flavor_immersed_daily:peanutjam",
+      "flavor_immersed_daily:sesame"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "花生",
+      "花生酱",
+      "芝麻"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "salad_white_cut_chicken",
+    "name": "沙拉酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:eggliquid",
+      "flavor_immersed_daily:cookingoil",
+      "flavor_immersed_daily:vinegar",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "蛋液",
+      "食用油",
+      "食醋",
+      "糖"
+    ],
+    "note": "蛋液、油、醋和糖直接代表测试用沙拉酱，不新增酱料物品。"
+  },
+  {
+    "dish": "mayonnaise_white_cut_chicken",
+    "name": "蛋黄酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:eggliquid",
+      "flavor_immersed_daily:cookingoil",
+      "flavor_immersed_daily:vinegar",
+      "flavor_immersed_daily:salt"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "蛋液",
+      "食用油",
+      "食醋",
+      "食用盐"
+    ],
+    "note": "用蛋液、油、醋、盐直接代表测试蛋黄酱；原模组没有蛋黄酱。"
+  },
+  {
+    "dish": "ketchup_white_cut_chicken",
+    "name": "番茄酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:tomato",
+      "flavor_immersed_daily:vinegar",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "番茄",
+      "食醋",
+      "糖"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "chili_white_cut_chicken",
+    "name": "辣椒酱白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:redrepper",
+      "flavor_immersed_daily:chillipowder",
+      "flavor_immersed_daily:cookingoil"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "红尖椒",
+      "辣椒粉",
+      "食用油"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "honey_white_cut_chicken",
+    "name": "蜂蜜白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "minecraft:honey_bottle",
+      "flavor_immersed_daily:lemon",
+      "flavor_immersed_daily:ginger"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "蜂蜜瓶",
+      "柠檬",
+      "生姜"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "matcha_white_cut_chicken",
+    "name": "抹茶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:greenteapowder",
+      "flavor_immersed_daily:milkbottle",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "绿茶粉",
+      "新鲜牛奶",
+      "糖"
+    ],
+    "note": "使用绿茶粉代表抹茶。"
+  },
+  {
+    "dish": "taro_white_cut_chicken",
+    "name": "芋泥白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily_spoofchicken:taro_paste",
+      "flavor_immersed_daily:milkbottle",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "芋泥",
+      "新鲜牛奶",
+      "糖"
+    ],
+    "note": "新增芋泥测试物品。"
+  },
+  {
+    "dish": "yogurt_white_cut_chicken",
+    "name": "酸奶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:yogurt",
+      "flavor_immersed_daily:milkbottle",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "原味酸奶",
+      "新鲜牛奶",
+      "糖"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "peach_oolong_white_cut_chicken",
+    "name": "蜜桃乌龙奶茶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:honeypeach",
+      "flavor_immersed_daily:assammilk_tea",
+      "flavor_immersed_daily:milkbottle"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "水蜜桃",
+      "阿萨姆奶茶",
+      "新鲜牛奶"
+    ],
+    "note": "暂用阿萨姆奶茶代表茶底，原模组无乌龙茶。"
+  },
+  {
+    "dish": "sea_salt_cheese_white_cut_chicken",
+    "name": "海盐芝士奶茶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:salt",
+      "flavor_immersed_daily:cream",
+      "flavor_immersed_daily:assammilk_tea"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "食用盐",
+      "奶油",
+      "阿萨姆奶茶"
+    ],
+    "note": "用奶油代表测试用芝士奶盖，原模组无芝士。"
+  },
+  {
+    "dish": "fish_mint_tea_white_cut_chicken",
+    "name": "折耳根奶茶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily_spoofchicken:fish_mint_milk_tea",
+      "flavor_immersed_daily:milkbottle",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "折耳根奶茶",
+      "新鲜牛奶",
+      "糖"
+    ],
+    "note": "新增折耳根奶茶测试物品。"
+  },
+  {
+    "dish": "bubble_tea_white_cut_chicken",
+    "name": "珍珠奶茶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:redteamilkwithpearl",
+      "flavor_immersed_daily:cassavapearl",
+      "flavor_immersed_daily:milkbottle"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "黑霸红奶",
+      "木薯珍珠",
+      "新鲜牛奶"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "mango_pomelo_white_cut_chicken",
+    "name": "杨枝甘露白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:mango",
+      "flavor_immersed_daily:mangojam",
+      "flavor_immersed_daily:coconutjuice",
+      "flavor_immersed_daily:cassavapearl"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "芒果",
+      "芒果果酱",
+      "椰子果汁",
+      "木薯珍珠"
+    ],
+    "note": "用木薯珍珠代西米；未新增西柚。"
+  },
+  {
+    "dish": "cola_white_cut_chicken",
+    "name": "可乐白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:scallion_2",
+      "minecraft:ice",
+      "flavor_immersed_daily:cola"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "葱段",
+      "冰",
+      "可口可乐"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "sprite_white_cut_chicken",
+    "name": "雪碧白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:lemon",
+      "minecraft:ice",
+      "flavor_immersed_daily:sprite"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "柠檬",
+      "冰",
+      "雪碧"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "orange_white_cut_chicken",
+    "name": "橙汁白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:orange",
+      "flavor_immersed_daily:orangejuice",
+      "minecraft:ice"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "橙子",
+      "橙子果汁",
+      "冰"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "pineapple_beer_white_cut_chicken",
+    "name": "菠萝啤白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:pineapple",
+      "flavor_immersed_daily:pineapplejuice",
+      "flavor_immersed_daily:tsingtao_beer"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "菠萝",
+      "菠萝果汁",
+      "青岛啤酒"
+    ],
+    "note": "现有菠萝汁和啤酒组合，无需单独注册菠萝啤。"
+  },
+  {
+    "dish": "lemon_tea_white_cut_chicken",
+    "name": "柠檬茶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:slicedlemon",
+      "flavor_immersed_daily:lemonredtea",
+      "minecraft:ice"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "柠檬片",
+      "柠檬红茶",
+      "冰"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "plum_white_cut_chicken",
+    "name": "酸梅汤白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:greenplumjuice",
+      "flavor_immersed_daily:hawthorn",
+      "flavor_immersed_daily:crystalsugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "青梅果汁",
+      "山楂",
+      "冰糖块"
+    ],
+    "note": "用青梅汁、山楂、冰糖代表测试酸梅汤，不声称已有乌梅。"
+  },
+  {
+    "dish": "herbal_tea_white_cut_chicken",
+    "name": "王老吉白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily_spoofchicken:wang_lao_ji",
+      "flavor_immersed_daily:crystalsugar",
+      "minecraft:ice"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "王老吉",
+      "冰糖块",
+      "冰"
+    ],
+    "note": "新增王老吉测试物品。"
+  },
+  {
+    "dish": "wangzai_milk_white_cut_chicken",
+    "name": "旺仔牛奶白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:milkbottle",
+      "flavor_immersed_daily:sweetmilk",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "新鲜牛奶",
+      "甜牛奶",
+      "糖"
+    ],
+    "note": "用牛奶和甜牛奶代表测试旺仔牛奶；品牌零食仍仅是模型装饰。"
+  },
+  {
+    "dish": "stinky_tofu_white_cut_chicken",
+    "name": "臭豆腐白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:toufu",
+      "flavor_immersed_daily:soy",
+      "flavor_immersed_daily:chillipowder"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "豆腐",
+      "酿造酱油",
+      "辣椒粉"
+    ],
+    "note": "用豆腐、酱油、辣椒粉代表测试臭豆腐；不是已有臭豆腐物品。"
+  },
+  {
+    "dish": "huoxiang_white_cut_chicken",
+    "name": "藿香正气水白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily_spoofchicken:huoxiang_zhengqi_water",
+      "flavor_immersed_daily:ginger",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "藿香正气水",
+      "生姜",
+      "糖"
+    ],
+    "note": "新增藿香正气水测试物品，不添加药效。"
+  },
+  {
+    "dish": "chocolate_white_cut_chicken",
+    "name": "巧克力白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:scallion_2",
+      "flavor_immersed_daily:ginger",
+      "flavor_immersed_daily:chocolate"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "葱段",
+      "生姜",
+      "巧克力"
+    ],
+    "note": ""
+  },
+  {
+    "dish": "popping_candy_white_cut_chicken",
+    "name": "跳跳糖白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily_spoofchicken:popping_candy",
+      "minecraft:sugar",
+      "minecraft:ice"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "跳跳糖",
+      "糖",
+      "冰"
+    ],
+    "note": "新增跳跳糖测试物品。"
+  },
+  {
+    "dish": "fermented_tofu_white_cut_chicken",
+    "name": "腐乳白切鸡",
+    "ingredients": [
+      "flavor_immersed_daily:chickenwithoutfeather",
+      "flavor_immersed_daily:toufu",
+      "flavor_immersed_daily:salt",
+      "flavor_immersed_daily:kaoliangwine",
+      "flavor_immersed_daily:chillipowder"
+    ],
+    "ingredient_names": [
+      "拔好毛的鸡",
+      "豆腐",
+      "食用盐",
+      "三十里红",
+      "辣椒粉"
+    ],
+    "note": "用豆腐、盐、酒、辣椒粉代表测试腐乳，不另新增腐乳物品。"
+  }
+]

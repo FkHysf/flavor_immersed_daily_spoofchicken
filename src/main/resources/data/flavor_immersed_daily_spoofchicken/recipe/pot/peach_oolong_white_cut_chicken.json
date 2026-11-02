@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "flavor_immersed_daily:honeypeach"
+    },
+    {
+      "item": "flavor_immersed_daily:assammilk_tea"
+    },
+    {
+      "item": "flavor_immersed_daily:milkbottle"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:peach_oolong_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}

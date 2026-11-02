@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "flavor_immersed_daily_spoofchicken:taro_paste"
+    },
+    {
+      "item": "flavor_immersed_daily:milkbottle"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:taro_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}

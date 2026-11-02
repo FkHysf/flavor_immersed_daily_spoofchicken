@@ -1,0 +1,77 @@
+[
+  {
+    "item": "flavor_immersed_daily_spoofchicken:taro_paste",
+    "name": "芋泥",
+    "ingredients": [
+      "minecraft:potato",
+      "minecraft:purple_dye"
+    ],
+    "ingredient_names": [
+      "马铃薯",
+      "紫色染料"
+    ],
+    "count": 1
+  },
+  {
+    "item": "flavor_immersed_daily_spoofchicken:fish_mint_milk_tea",
+    "name": "折耳根奶茶",
+    "ingredients": [
+      "flavor_immersed_daily:assammilk_tea",
+      "minecraft:fern",
+      "minecraft:cod"
+    ],
+    "ingredient_names": [
+      "阿萨姆奶茶",
+      "蕨",
+      "生鳕鱼"
+    ],
+    "count": 1
+  },
+  {
+    "item": "flavor_immersed_daily_spoofchicken:wang_lao_ji",
+    "name": "王老吉",
+    "ingredients": [
+      "flavor_immersed_daily:redtea",
+      "minecraft:dandelion",
+      "minecraft:sugar"
+    ],
+    "ingredient_names": [
+      "红茶",
+      "蒲公英",
+      "糖"
+    ],
+    "count": 1
+  },
+  {
+    "item": "flavor_immersed_daily_spoofchicken:huoxiang_zhengqi_water",
+    "name": "藿香正气水",
+    "ingredients": [
+      "flavor_immersed_daily:tidywater",
+      "flavor_immersed_daily:ginger",
+      "minecraft:brown_mushroom",
+      "flavor_immersed_daily:kaoliangwine"
+    ],
+    "ingredient_names": [
+      "纯净水",
+      "生姜",
+      "棕色蘑菇",
+      "三十里红"
+    ],
+    "count": 1
+  },
+  {
+    "item": "flavor_immersed_daily_spoofchicken:popping_candy",
+    "name": "跳跳糖",
+    "ingredients": [
+      "minecraft:sugar",
+      "flavor_immersed_daily:nahco_3",
+      "minecraft:redstone"
+    ],
+    "ingredient_names": [
+      "糖",
+      "食用小苏打",
+      "红石粉"
+    ],
+    "count": 1
+  }
+]

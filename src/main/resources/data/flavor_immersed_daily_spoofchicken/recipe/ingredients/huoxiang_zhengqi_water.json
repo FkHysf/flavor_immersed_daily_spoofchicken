@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:tidywater"
+    },
+    {
+      "item": "flavor_immersed_daily:ginger"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "flavor_immersed_daily:kaoliangwine"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:huoxiang_zhengqi_water",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "flavor_immersed_daily:toufu"
+    },
+    {
+      "item": "flavor_immersed_daily:soy"
+    },
+    {
+      "item": "flavor_immersed_daily:chillipowder"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:stinky_tofu_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}

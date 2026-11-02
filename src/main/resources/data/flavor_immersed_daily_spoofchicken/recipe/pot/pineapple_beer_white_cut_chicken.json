@@ -1,0 +1,24 @@
+{
+  "type": "fidworkblock:cooking",
+  "appliance": "pot",
+  "ingredients": [
+    {
+      "item": "flavor_immersed_daily:chickenwithoutfeather"
+    },
+    {
+      "item": "flavor_immersed_daily:pineapple"
+    },
+    {
+      "item": "flavor_immersed_daily:pineapplejuice"
+    },
+    {
+      "item": "flavor_immersed_daily:tsingtao_beer"
+    }
+  ],
+  "result": {
+    "id": "flavor_immersed_daily_spoofchicken:pineapple_beer_white_cut_chicken",
+    "count": 1
+  },
+  "cookingTime": 120,
+  "experience": 0.5
+}
